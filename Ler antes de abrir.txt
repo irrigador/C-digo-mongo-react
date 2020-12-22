@@ -1,0 +1,4 @@
+Olá,
+tentei abrir o server no PC e não consegui 
+ficou dando um erro. Mas todas as alterações
+foram comentadas (server e usuario)
