@@ -1,4 +1,4 @@
 Olá,
 tentei abrir o server no PC e não consegui 
-ficou dando um erro. Mas todas as alterações
-foram comentadas (server e usuario)
+ficou dando um erro. Coloquei o mongoDB e
+fiz um comentário no servidor
